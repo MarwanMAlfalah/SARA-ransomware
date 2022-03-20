@@ -48,9 +48,13 @@ Tested on devices ```Android 10```
 ### Output logs
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/outputlog.jpg"></img>
 
-### Support Us
+### The tool was developed by:
 Facebook [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
 Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
 
 ### Credit's
 Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
+
+
+### Disclaimer:
+The purpose of this video is educational and we do not accept that the content will be used to sabotage or harm anyone.
